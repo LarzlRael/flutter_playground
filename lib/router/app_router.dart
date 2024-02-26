@@ -10,5 +10,13 @@ final appRouter = GoRouter(
       path: HomePage.routeName,
       builder: (_, __) => HomePage(),
     ),
+    GoRoute(
+      path: TableGeneratorPage.routeName,
+      builder: (_, __) => TableGeneratorPage(),
+    ),
+    GoRoute(
+      path: FormGeneratorPage.routeName,
+      builder: (_, __) => FormGeneratorPage(),
+    ),
   ],
 );

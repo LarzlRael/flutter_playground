@@ -15,12 +15,6 @@ class MenuListItem {
 
 final List<MenuListItem> menuList = [
   MenuListItem(
-    title: 'Home',
-    icon: Icons.home,
-    route: HomePage.routeName,
-    subtitle: 'Home Page',
-  ),
-  MenuListItem(
     title: 'Form Generator',
     icon: Icons.list,
     route: FormGeneratorPage.routeName,

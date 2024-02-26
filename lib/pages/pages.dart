@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:go_router/go_router.dart';
+import 'package:templat_project/data/form/forms_patters.dart';
 import 'package:templat_project/utils/utils.dart';
+import 'package:templat_project/widgets/forms/forms.dart';
+import 'package:templat_project/widgets/table/tables.dart';
 part 'home_page.dart';
 part 'form_generator_page.dart';
 part 'table_generator_page.dart';
