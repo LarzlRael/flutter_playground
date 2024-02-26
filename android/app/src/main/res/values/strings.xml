@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">changeByYourName</string>
+  <string
+    name="admob_application_id"
+  >ca-app-pub-3940256099942544~3347511713</string>
+  <string
+    name="android_host_deep_linking"
+  >example.com</string>
+
+  <!-- Agrega más cadenas según sea necesario -->
+
+</resources>
